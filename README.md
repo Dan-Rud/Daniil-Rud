@@ -1,5 +1,5 @@
 ## Hello! Welcome to my minimalist Github profile!
-**My Github is outdated, because I'm migrated to my own Git server.**
+**My Github is outdated. I've migrated to my own Git server.**
 
 😎 **_I'm **14 old** guy that likes porting, Docker, Linux administration._**<br/> 
  🐋  **_Now I have a home server based on Rocky Linux 8.4 (it is based on CentOS 8)._**
